@@ -1,0 +1,21 @@
+/* ================ 
+    Category section
+================== */
+.cat-img img {
+    width: 100px;
+}
+
+/* ================ 
+    shoes section
+================== */
+.shoe-card,
+.backpack-card,
+.shoe-card-footer,
+.backpack-card-footer {
+    border: 0;
+}
+
+.shoe-card-footer,
+.backpack-card-footer {
+    background-color: #fff;
+}
